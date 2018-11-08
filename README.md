@@ -26,4 +26,7 @@ Execute o jogo
     
     python game.py
 
+# Grupo Team12
+
+Lucas Garcia Rodrigues - https://github.com/SootyClown96
    
