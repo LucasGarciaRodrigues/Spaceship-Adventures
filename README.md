@@ -28,5 +28,5 @@ Execute o jogo
 
 # Grupo Team12
 
-Lucas Garcia Rodrigues - https://github.com/SootyClown96
+Lucas Garcia Rodrigues - https://github.com/LucasGarciaRodrigues
    
